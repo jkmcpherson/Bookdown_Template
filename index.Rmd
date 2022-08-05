@@ -7,4 +7,13 @@ site: bookdown::bookdown_site
 
 # Chapter 01 Title
 
-test test
+
+
+```{r}
+plot(cars)
+```
+
+
+```{python}
+print("hello world")
+```
